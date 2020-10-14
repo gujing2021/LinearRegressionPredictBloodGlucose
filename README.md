@@ -146,7 +146,7 @@ plt.show()
 
 
 ​    
-![svg](/home/madao/文档/codes/python/BloodGlucosePredict/LinearRegressionPredict_files/LinearRegressionPredict_19_0.svg)
+![svg](LinearRegressionPredict_files/LinearRegressionPredict_19_0.svg)
 ​    
 
 
@@ -159,7 +159,7 @@ plt.show()
 
 
 ​    
-![svg](/home/madao/文档/codes/python/BloodGlucosePredict/LinearRegressionPredict_files/LinearRegressionPredict_20_0.svg)
+![svg](LinearRegressionPredict_files/LinearRegressionPredict_20_0.svg)
 ​    
 
 
@@ -250,7 +250,7 @@ total, percentage = clarke(test_y, predict_y)
 
 
 ​    
-![svg](/home/madao/文档/codes/python/BloodGlucosePredict/LinearRegressionPredict_files/LinearRegressionPredict_22_0.svg)
+![svg](LinearRegressionPredict_files/LinearRegressionPredict_22_0.svg)
 ​    
 
 
